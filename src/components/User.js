@@ -2,6 +2,7 @@ import "./User.css"
 import HomeIcon from '@mui/icons-material/Home';
 import PhoneIcon from "@mui/icons-material/Phone"
 import MailIcon from "@mui/icons-material/Mail"
+import Avatar from '../assets/avatar.jpg'
 // import EventIcon from "@mui/icons-material/Event"
 // import LocationOnIcon from "@mui/icons-material/LocationOn"
 
@@ -10,7 +11,7 @@ function User({ nom }) {
 
     return (
         <div className="user">
-            <img src="./images/avatar.jpg" className="user__avatar" alt="Nicolas Pedenau" />
+            <img src={Avatar} className="user__avatar" alt="Nicolas Pedenau" />
             <h1 className="user__name">{nom}</h1>
             <p className="user__profession">Développeur Web Full Stack</p>
             <div className="user__infos">
