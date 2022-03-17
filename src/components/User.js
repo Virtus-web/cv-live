@@ -10,7 +10,7 @@ function User({ nom }) {
 
     return (
         <div className="user">
-            <img src="../../public/images/avatar.jpg" className="user__avatar" alt="Nicolas Pedenau" />
+            <img src="./images/avatar.jpg" className="user__avatar" alt="Nicolas Pedenau" />
             <h1 className="user__name">{nom}</h1>
             <p className="user__profession">Développeur Web</p>
             <div className="user__infos">
