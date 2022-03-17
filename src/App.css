@@ -13,12 +13,15 @@
     --sidebar-bg-color: #f4f4f4;
     --text-color: #333333;
     --title-color: #111111;
-    --date-color: #1f94c2;
+    /* --date-color: #1f94c2; */
+    --date-color: #838ff3;
     --dark-body-bg-color: #242424;
     --dark-sidebar-bg-color: #171717;
     --dark-text-color: #d8d8d8;
     --dark-title-color: #ffffff;
-    --dark-date-color: #e6ef71;
+    /* --dark-date-color: #e6ef71; */
+    /* --dark-date-color: #efd871; */
+    --dark-date-color: #838ff3;
     
     --icon-color:var(--text-color);
     --circle-color: #AAA;
@@ -44,6 +47,7 @@
     --spacing-3: 1.2rem;
     --spacing-4: 1.5rem;
     --spacing-5: 2rem;
+    --spacing-6: 4.3em;
 }
 
 body {

@@ -1,6 +1,3 @@
-import React from "react"
-
-
 function Formations(props) {
     
     const datas = props.datas

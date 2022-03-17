@@ -1,12 +1,18 @@
 import "./Skills.css"
 import Skill from "./Skill"
 import Interests from "./Interests"
+import styled from 'styled-components'
+
+
+const SkillsBox = styled.div`
+    margin-top: 4.5em;
+`
 
 
 function Skills() {
 
     return (
-        <>
+        <SkillsBox>
             <div className="skills">
                 <h2 className="h2">Compétences</h2>
                 <Skill title="HTML" rating="5" />
@@ -22,7 +28,7 @@ function Skills() {
                 <Skill title="Brésilien" rating="2" />
             </div>
             <Interests />
-        </>
+        </SkillsBox>
     )
 }
 
