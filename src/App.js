@@ -44,20 +44,6 @@ function App() {
                 <Cursus />
             </div>
             </div>
-            {/* react, material ui, react-html2pdf */}
-            {/* Installation, Nettoyage & paramétrage */}
-            {/* Variables CSS */}
-            {/* Colonne de gauche * /} 
-        {/* Détails personnels - User */}
-            {/* Compétences - skills */}
-            {/* Langues - skills */}
-            {/* Centres d'intérêts - interests */}
-            {/* Colonne de droite * /} 
-        {/* Profil - profil */}
-            {/* Formation  - education */}
-            {/* Expériences professionelles - experiences */}
-            {/* Ligth & Dark mode */}
-            {/* Export PDF (react-html2pdf) */}
         </div>
         </Preview>
     )
