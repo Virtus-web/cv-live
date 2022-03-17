@@ -3,9 +3,9 @@
     position: relative;
     text-align: center;  
 }
-.user__avatar {  
+.user__avatar {
     border-radius: 50%;
-    object-fit: contain;
+    object-fit: cover;
     width: 7em;
     height: 7em;
 }

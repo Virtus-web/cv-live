@@ -149,10 +149,9 @@ button {
 /* Layout */
 
 .sidebar { 
-    /* bonus
+    /* bonus */
     width:100%;
     position: relative;
-    */
     padding:1.5rem;
     background-color: var(--sidebar-bg-color); 
 }
@@ -172,7 +171,8 @@ button {
     /* border-radius: 0 0 50% 50%; */
     /* Possibilité d'aller sur boder-radius generator ou sur clip-path generator */
     /* clip-path: polygon(50% 0%, 0% 100%, 100% 100%); */
-    clip-path: polygon(50% 100%, 0 0, 100% 0);
+    /* clip-path: polygon(50% 100%, 0 0, 100% 0); */
+    clip-path: polygon(0 0, 100% 0, 100% 60%, 0% 100%);
 }
 
 .dark .sidebar {
