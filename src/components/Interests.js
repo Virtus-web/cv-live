@@ -1,8 +1,7 @@
-import SportsTennisIcon from "@mui/icons-material/SportsTennis"
-import CodeIcon from "@mui/icons-material/Code"
-import DirectionsWalkIcon from "@mui/icons-material/DirectionsWalk"
-import SportsEsportsIcon from "@mui/icons-material/SportsEsports"
-import LocalLibraryIcon from "@mui/icons-material/LocalLibrary"
+import FitnessCenterIcon from '@mui/icons-material/FitnessCenter'
+import EmojiObjectsIcon from '@mui/icons-material/EmojiObjects'
+import TravelExploreIcon from '@mui/icons-material/TravelExplore'
+import InsightsIcon from '@mui/icons-material/Insights';
 
 
 function Interests() {
@@ -10,18 +9,18 @@ function Interests() {
         <div className="skills">
             <h2 className="h2">Centres d'intérêts</h2>
             <ul>
-                <li>Informatique</li>
-                <li>Musique</li>
-                <li>Tennis</li>
-                <li>Randonnée</li>
+                <li><InsightsIcon style={{ fontSize: 30 }} /><span>Développpement</span></li>
+                <li><EmojiObjectsIcon style={{ fontSize: 30 }} /><span>Créativité</span></li>
+                <li><TravelExploreIcon style={{ fontSize: 30 }} /><span>Voyage</span></li>
+                <li><FitnessCenterIcon style={{ fontSize: 30 }} /><span>Sport</span></li>
             </ul>
-            <div className="interests">
+            {/* <div className="skills">
                 <SportsTennisIcon style={{ fontSize: 40 }} />
                 <SportsEsportsIcon style={{ fontSize: 40 }} />
                 <CodeIcon style={{ fontSize: 40 }} />
                 <DirectionsWalkIcon style={{ fontSize: 40 }} />
                 <LocalLibraryIcon style={{ fontSize: 40 }} />
-            </div>
+            </div> */}
         </div>
     )
 }

@@ -1,21 +1,21 @@
 const dataFormations = [
     {
         id: 1,
-        title: "Formation Développeur Web",
-        date: "12/03/2004 - 05/07/2012",
-        location: "Montpellier",
+        title: "Développeur Front-end",
+        date: "01/03/2021 - 01/04/2022",
+        location: "Open Classrooms",
     },
     {
         id: 2,
-        title: "IUT Montpellier",
-        date: "18/02/2000 - 21/07/2004",
-        location: "Université Paris 11ème",
+        title: "Master Ingénierie financière & Marché des capitaux",
+        date: "2008",
+        location: "ISG Paris",
     },
     {
         id: 3,
         title: "Baccalauréat",
-        date: "04/03/1996 - 16/11/2000",
-        location: "Lycée Paris 13ème",
+        date: "2003",
+        location: "Candidat libre",
     }
 ]
 
