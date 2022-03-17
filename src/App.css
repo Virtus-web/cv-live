@@ -157,7 +157,7 @@ button {
     background-color: var(--sidebar-bg-color); 
 }
 
-/* bonus
+/* bonus */
 .sidebar::before {
     position: absolute;
     top:0;
@@ -167,15 +167,20 @@ button {
     display: block;
     width: 100%;
     height: 120px;
-    background-color: #bae5ff;
-    clip-path: polygon(0 0, 100% 1%, 100% 100%, 75% 86%, 25% 86%, 0 100%);
+    background-color: #838ff3;
+    /* clip-path: polygon(0 0, 100% 1%, 100% 100%, 75% 86%, 25% 86%, 0 100%); */
+    /* border-radius: 0 0 50% 50%; */
+    /* Possibilité d'aller sur boder-radius generator ou sur clip-path generator */
+    /* clip-path: polygon(50% 0%, 0% 100%, 100% 100%); */
+    clip-path: polygon(50% 100%, 0 0, 100% 0);
 }
- */  
+
 .dark .sidebar {
     background-color: var(--dark-sidebar-bg-color);
 }
 
 .actions {
+    /* Position relative pour le bonus */
     position: relative;
     display: flex;
     justify-content: space-between;

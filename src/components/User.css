@@ -1,5 +1,6 @@
 .user {
-    /* position: relative; */
+    /* Position relative pour le bonus */
+    position: relative;
     text-align: center;  
 }
 .user__avatar {  
