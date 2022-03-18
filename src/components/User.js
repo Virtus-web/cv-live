@@ -30,7 +30,7 @@ function User({ nom }) {
                     <GitHubIcon /> <a href="https://github.com/Virtus-web" rel="noreferrer" target="_blank">Virtus-web</a>
                 </p>
                 <p className="user__info">
-                    <LinkedInIcon /> <a href="https://www.linkedin.com/in/nicolas-pedenau-3b5a1278/" rel="noreferrer" target="_blank">Page Linked'In</a>
+                    <LinkedInIcon /> <a href="www.linkedin.com/in/nicolas-pedenau" rel="noreferrer" target="_blank">Page Linked'In</a>
                 </p>
                 {/* <p className="user__info">
                     <EventIcon /> Date de naissance: 5 Avril 1984
