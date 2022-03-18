@@ -14,12 +14,12 @@ export const dataExperiences = [
             {
                 id: 2,
                 title: "Application bancaire de gestion de compte utilisateurs",
-                url: "https://virtus-web.github.io/NicolasPedenau_03_16042021/"
+                url: ""
             },
             {
                 id: 3,
                 title: "Application React proposant un suivi sportif intégrant des graphiques",
-                url: ""
+                url: "https://github.com/Virtus-web/NP_12_27012022.git"
             },
             {
                 id: 4,
