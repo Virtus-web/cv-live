@@ -248,9 +248,9 @@ button {
 .cv-print .sidebar {
     height: 297mm;
 }
-.cv-print .user__infos svg {
+/* .cv-print .user__infos svg {
     display: none !important;
-}
+} */
 .cv-print .circle {
     width:10px;
     height:10px;

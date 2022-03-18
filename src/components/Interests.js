@@ -9,10 +9,10 @@ function Interests() {
         <div className="skills">
             <h2 className="h2">Centres d'intérêts</h2>
             <ul>
-                <li><InsightsIcon style={{ fontSize: 30 }} /><span>Développpement</span></li>
-                <li><EmojiObjectsIcon style={{ fontSize: 30 }} /><span>Créativité</span></li>
-                <li><TravelExploreIcon style={{ fontSize: 30 }} /><span>Voyage</span></li>
-                <li><FitnessCenterIcon style={{ fontSize: 30 }} /><span>Sport</span></li>
+                <li><InsightsIcon style={{ fontSize: 20 }} /><span>Développpement</span></li>
+                <li><EmojiObjectsIcon style={{ fontSize: 20 }} /><span>Créativité</span></li>
+                <li><TravelExploreIcon style={{ fontSize: 20 }} /><span>Voyage</span></li>
+                <li><FitnessCenterIcon style={{ fontSize: 20 }} /><span>Sport</span></li>
             </ul>
             {/* <div className="skills">
                 <SportsTennisIcon style={{ fontSize: 40 }} />
