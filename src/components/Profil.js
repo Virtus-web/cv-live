@@ -4,7 +4,7 @@ function Profil() {
         <div className="profil mb5">
             <h2>Profil | Disponible immédiatement</h2>
             <p style={{textAlign: 'justify'}}>
-                Après dix années d’experience professionnelle, j’ai décidé de booster mon accomplissement personnel et professionnelle. Un besoin permanent d'évolution me pousse à sortir de ma zone de confort et à diversifier mes compétences dans de nouveaux domaines. Concentré et autonome, je sais être efficace dans les résolutions de problématiques spécifiques, et mon experience professionnelle m'a formé au management d’équipe dans le but d’optimiser des développements de projets. Je souhaite aujourd’hui mettre ces compétences au service d’une entreprise attirée par les personnalités dynamiques qui souhaitent s’épanouir intellectuellement sur des problématiques nouvelles
+                Après une évolution positive dans le domaine des medias et de la communication, j'ai amorcé un changement de carrière afin d'être plus cohérent avec mes objectifs professionnels. J'ai ainsi passé ces trois dernières années à me familiariser avec ce nouvel environnement dans un premier temps, puis à perfectionner mon travail afin d'acquérir des compétences techniques dans un cadre professionnel. Je souhaite aujourd’hui mettre le fruit de ce travail au service d’une entreprise attirée par les personnalités dynamiques et à même de s'investir pleinement sur des problématiques nouvelles
             </p>
         </div>
     )
