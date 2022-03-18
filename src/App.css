@@ -221,20 +221,26 @@ button {
 .cv-print .actions {
     display: none;
 }
+.cv-print h3 {
+    font-size: 100%;
+}
+.cv-print p {
+    font-size: 90%;
+}
 .cv-print ul {
     margin:0;
     padding:0;
-  
 }
-.cv-print ul li {
+/* .cv-print ul li {
     list-style-type:none;
+    font-size: 80%;
 }
 .cv-print ul li:before {
     content: "•";
     display: inline-block; 
     font-size: 110%;
     padding-right: 10px;
-}
+} */
 .cv-print .grid__container {
     font-size:12px !important;
     max-width: 210mm;

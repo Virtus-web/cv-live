@@ -5,7 +5,7 @@ import styled from 'styled-components'
 
 
 const SkillsBox = styled.div`
-    margin-top: 4.5em;
+    margin-top: 2em;
 `
 
 

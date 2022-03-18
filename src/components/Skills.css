@@ -1,5 +1,5 @@
 .skills {
-    margin:var(--spacing-6) 0;
+    margin:var(--spacing-5) 0;
 }
 .skill {
     display: flex;
