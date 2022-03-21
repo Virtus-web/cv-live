@@ -8,14 +8,19 @@ export const dataExperiences = [
         missions: [
             {
                 id: 1,
-                title: "Lien du site de mariage en ligne",
+                title: "Lien vers mon portfolio",
                 url: "https://marriagecarineetpierre.netlify.app/"
-            },
-            {
-                id: 2,
-                title: "Lien vers mes projets hébergés sur GitHub",
-                url: "https://github.com/stars/Virtus-web/lists/experience"
             }
+            // {
+            //     id: 1,
+            //     title: "Lien du site de mariage en ligne",
+            //     url: "https://marriagecarineetpierre.netlify.app/"
+            // },
+            // {
+            //     id: 2,
+            //     title: "Lien vers mes projets hébergés sur GitHub",
+            //     url: "https://github.com/stars/Virtus-web/lists/experience"
+            // }
             // {
             //     id: 3,
             //     title: "Application React proposant un suivi sportif intégrant des graphiques",
