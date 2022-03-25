@@ -34,8 +34,10 @@ function Skills() {
             </div>
             <div className="skills">
                 <h2 className="h2">Langues</h2>
-                <Skill title="Anglais" rating="5" />
-                <Skill title="Brésilien" rating="2" />
+                <Skill title="Anglais" level="Fluent" />
+                <Skill title="Espagnol" level="Remontada" />
+                {/* <Skill title="Anglais" rating="5" />
+                <Skill title="Brésilien" rating="2" /> */}
             </div>
             <Interests />
         </SkillsBox>

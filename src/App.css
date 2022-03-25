@@ -95,6 +95,7 @@ h4 {
 
 p {
     margin-bottom: var(--spacing-2);
+    text-align: justify;
 }
 
 ul {

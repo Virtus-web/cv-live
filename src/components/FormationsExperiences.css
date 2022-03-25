@@ -1,6 +1,6 @@
 .grid__item,
 .grid__item p {    
-    margin-bottom: var(--spacing-1)
+    margin-bottom: var(--spacing-1);
 }
 .grid__date {  
     font-weight: 500;

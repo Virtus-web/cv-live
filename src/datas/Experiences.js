@@ -2,14 +2,14 @@ export const dataExperiences = [
     {
         id: 1,
         title: "Développement Web - Full Stack",
-        date: "2020 - 2022",
+        date: "2021 - 2022",
         location: "France - A distance",
-        text: `Développement de plusieurs projets personnels et professionnels dans le cadre de ma formation. Le dernier en date est un site de mariage intégrant une API et déployé via Heroku et Netlify. Les autres projets restent visibles sur mon compte GitHub`,
+        text: `Développement de plusieurs projets personnels et professionnels dans le cadre de ma formation. Le dernier en date est un site de mariage intégrant une API et déployé via Heroku et Netlify. Les autres projets restent visibles sur mon portfolio que vous pouvez visiter via le lien ci-dessous`,
         missions: [
             {
                 id: 1,
-                title: "Lien vers mon portfolio",
-                url: "https://marriagecarineetpierre.netlify.app/"
+                title: "Portfolio",
+                url: "https://virtus-web.github.io/developer-portfolio/"
             }
             // {
             //     id: 1,

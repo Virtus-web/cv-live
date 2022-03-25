@@ -15,7 +15,7 @@ function User({ nom }) {
         <div className="user">
             <img src={Avatar} className="user__avatar" alt="Nicolas Pedenau" />
             <h1 className="user__name">{nom}</h1>
-            <p className="user__profession">Développeur Web - Full Stack</p>
+            <p className="user__profession">Développeur Web - Fullstack</p>
             <div className="user__infos">
                 <p className="user__info">
                     <HomeIcon /> 31 Boulevard de l'ancien Marché 13870 Rognonas
@@ -26,9 +26,9 @@ function User({ nom }) {
                 <p className="user__info">
                     <MailIcon /> <a href="mailto:johndoe@gmail.com">nicolas.pedenau@hotmail.fr</a>
                 </p>
-                <p className="user__info">
+                {/* <p className="user__info">
                     <GitHubIcon /> <a href="https://github.com/Virtus-web" rel="noreferrer" target="_blank">Virtus-web</a>
-                </p>
+                </p> */}
                 <p className="user__info">
                     <LinkedInIcon /> <a href="https://www.linkedin.com/in/nicolas-pedenau/" rel="noreferrer" target="_blank">Page Linked'In</a>
                 </p>
