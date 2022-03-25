@@ -4,7 +4,7 @@ export const dataExperiences = [
         title: "Développement Web - Fullstack",
         date: "2021 - 2022",
         location: "France - A distance",
-        text: `Développement de plusieurs projets personnels et professionnels dans le cadre de ma formation. Le dernier en date est un site de mariage intégrant une API et déployé via Heroku et Netlify. Les autres projets restent visibles sur mon portfolio que vous pouvez visiter via le lien ci-dessous`,
+        text: `Développement de plusieurs projets personnels et professionnels dans le cadre de ma formation. Vous pouvez consulter ces projets dans mon portfolio que vous pouvez visiter via le lien ci-dessous`,
         missions: [
             {
                 id: 1,
