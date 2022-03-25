@@ -1,7 +1,7 @@
 const dataFormations = [
     {
         id: 1,
-        title: "Développeur Full Stack",
+        title: "Développeur Fullstack",
         date: "2021 - 2022",
         location: "Open Classrooms - Formation diplômante BAC + 4"
     },
