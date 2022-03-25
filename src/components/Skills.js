@@ -5,7 +5,7 @@ import styled from 'styled-components'
 
 
 const SkillsBox = styled.div`
-    margin-top: 2em;
+    margin-top: 0;
 `
 
 
@@ -14,12 +14,12 @@ function Skills() {
     return (
         <SkillsBox>
             <div className="skills">
-                <h2 className="h2">Compétences Frontend</h2>
+                <h2>Compétences Frontend</h2>
                 <p className="skill__label">HTML / CSS</p>
                 <p className="skill__label">JAVASCRIPT</p>
                 <p className="skill__label">REACT</p>
                 <p className="skill__label">REDUX</p>
-                <h2 className="h2">Compétences Backend</h2>
+                <h2>Compétences Backend</h2>
                 <p className="skill__label">MONGO DB</p>
                 <p className="skill__label">EXPRESS</p>
                 <p className="skill__label">NODE JS</p>

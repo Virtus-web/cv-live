@@ -3,6 +3,14 @@
     position: relative;
     text-align: center;  
 }
+.user__name {
+    margin-top: .5em;
+    font-size: 1.5em;
+}
+.user__profession {
+    margin: .5em auto;
+    text-align: center;
+}
 .user__avatar {
     border-radius: 50%;
     object-fit: cover;
