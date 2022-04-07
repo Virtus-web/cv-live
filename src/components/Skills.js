@@ -17,8 +17,8 @@ function Skills() {
                 <h2>Compétences Frontend</h2>
                 <p className="skill__label">HTML / CSS</p>
                 <p className="skill__label">JAVASCRIPT</p>
-                <p className="skill__label">REACT</p>
-                <p className="skill__label">REDUX</p>
+                <p className="skill__label">REACT / REDUX</p>
+                <p className="skill__label">BOOTSTRAP</p>
                 <h2>Compétences Backend</h2>
                 <p className="skill__label">MONGO DB</p>
                 <p className="skill__label">EXPRESS</p>

@@ -2,9 +2,9 @@ export const dataExperiences = [
     {
         id: 1,
         title: "Développement Web - Fullstack",
-        date: "2021 - 2022",
-        location: "France - A distance",
-        text: `Développement de plusieurs projets personnels et professionnels dans le cadre de ma formation. Vous pouvez consulter ces projets dans mon portfolio que vous pouvez visiter via le lien ci-dessous`,
+        date: "2020 - 2022",
+        location: "France - Freelance",
+        text: `Développement de projets indépendants. Lien portfolio consultable ci-dessous :`,
         missions: [
             {
                 id: 1,
